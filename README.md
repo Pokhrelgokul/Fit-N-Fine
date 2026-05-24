@@ -15,3 +15,5 @@ This project is designed as a fitness club with attractive user interface.
 
 #Project Purpose
 This project was created for practicing frontend web developmentand improving html and css skils
+#Live Demo
+ https://pokhrelgokul.github.io/Fit-N-Fine/
