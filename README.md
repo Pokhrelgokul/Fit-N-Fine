@@ -14,6 +14,10 @@ This project is designed as a fitness club with attractive user interface.
 -CSS3
 
 # Project Purpose
-This project was created for practicing frontend web developmentand improving html and css skils
-#Live Demo
+Learn web development
+Practice frontend designing
+Improve coding skills
+Build beginner projects
+
+# Live Demo
  https://pokhrelgokul.github.io/Fit-N-Fine/
