@@ -18,6 +18,6 @@ Learn web development
 Practice frontend designing
 Improve coding skills
 Build beginner projects
-
-# Live Demo
- https://pokhrelgokul.github.io/Fit-N-Fine/
+# Note
+This is a beginner repository, so some projects may contain simple designs or mistakes.
+I am continuously learning and improving my skills.
